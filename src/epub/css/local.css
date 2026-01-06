@@ -7,8 +7,8 @@ header{
 
 /* Centered dedications */
 section[epub|type~="dedication"]{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 section[epub|type~="dedication"] > *{
@@ -37,14 +37,14 @@ section[epub|type~="dedication"] > *{
 
 #chapter-5 blockquote:last-of-type p{
 	font-style: italic;
-	text-indent: 0;
 	text-align: center;
+	text-indent: 0;
 }
 
 #chapter-8 blockquote header{
 	font-style: italic;
-	text-indent: 0;
 	text-align: center;
+	text-indent: 0;
 }
 
 /* Letters */
